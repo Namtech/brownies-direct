@@ -1,4 +1,4 @@
-# Fashion Journal
+# Brownies-Direct
 
 <img align="right" src="https://raw.github.com/3bola/gulp-starter/master/app/img/pipboy.jpg" hspace="20" vspace="10" width="320">
 
