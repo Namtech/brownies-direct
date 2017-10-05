@@ -39,7 +39,7 @@ NOTE: before following the steps below please:
 2. Locate your `htdocs` folder. Then open Command Prompt and type:
 
 ```sh
-git clone git@github.com:nguyenpham95/fashion-journal.git /***/***/htdocs
+git clone git@github.com:Namtech/brownies-direct.git /***/***/htdocs
 cd /***/***/htdocs
 npm install && npm run init
 ```
